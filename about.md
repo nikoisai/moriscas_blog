@@ -17,7 +17,7 @@ In each period, two Project Assistants would prioritize transcription efforts, a
 
 By the end of the grant period, we plan to have a completed set of transcriptions for the holdings at Penn, and a proof of concept for a digital edition of transcriptions, key modernizations, and initial contextualization for selected trials. This site will form the groundwork for future expansion of the corpus, and with data backed up to text forms that could serve as the basis for future publications: open edition volumes, education resources, translations, and critical work advancing morisco studies.
 
-
+<!--
 ## Sample Ed editions.
 
 - [Our sample site](http://minicomp.github.io/ed/) is the first edition built with Ed.
@@ -47,3 +47,4 @@ By the end of the grant period, we plan to have a completed set of transcription
 
 To learn how to install and begin using Ed, please visit our
 [documentation page](http://minicomp.github.io/ed/documentation).
+-->
