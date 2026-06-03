@@ -7,7 +7,7 @@ Kathryn Phipps - Project director
 
 Alice McGrath - Technical coordinator
 
-Niko Caraballo - Digital Scholarship Graduate Assistant and Project Manager
+Nicholas Caraballo - Digital Scholarship Graduate Assistant and Project Manager
 
 Digital Scholarship Project Assistants:
 
