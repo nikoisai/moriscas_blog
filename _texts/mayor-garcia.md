@@ -3,7 +3,7 @@ layout: poem
 title: Accusation of Mayor Garcia for Heresy
 ---
 
-- muy R[everen](dos) s[eñore]s 
+- muy R\[everen\](dos) s[eñore]s 
 - El bachiller pedro ortiz promotor fiscal en el sancto officio de
 - la Inq[uisiçi](on) y arçob[is]pado de Toledo y su partido
 - ante v[uestras] m[erçedes] parezco en la major via y forma q[ue] puedo y de
