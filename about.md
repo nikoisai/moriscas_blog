@@ -8,6 +8,7 @@ Morisco studies is a growing field of inquiry that seeks to understand the exper
 "Transcribing Moriscas on Trial" has multi-year ambitions to create digital tools and publish OERs that advance teaching and scholarship on the morisco experience while equipping undergraduates with the paleographic skills and digital competencies to engage rigorously with these important documents. To date, we have identified fifteen digitized trials against a morisco community in Daymiel between 1531 and 1544. Eight are housed in Special Collections at the University of Pennsylvania, and seven at the Archivo Histórico Nacional in Madrid.
 
 Now, to finish transcribing the materials at Penn, I estimate we need ~330 hours of student labor as it takes ~45 minutes to complete one image and there are 430 images remaining. To complete the first pass of the transcription of holdings in Spain, I estimate I need 690 hours, as 914 images remain. Once transcribed, there is much work to be done editing, modernizing, tagging metadata, and writing about the trials for public usage. I expect this project to take at least two years to completely transcribe and publish both archives.
+
 <!--
 To this end, I would like to hire three undergraduate researchers for the following periods:
 
