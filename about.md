@@ -8,10 +8,11 @@ Morisco studies is a growing field of inquiry that seeks to understand the exper
 "Transcribing Moriscas on Trial" has multi-year ambitions to create digital tools and publish OERs that advance teaching and scholarship on the morisco experience while equipping undergraduates with the paleographic skills and digital competencies to engage rigorously with these important documents. To date, we have identified fifteen digitized trials against a morisco community in Daymiel between 1531 and 1544. Eight are housed in Special Collections at the University of Pennsylvania, and seven at the Archivo Histórico Nacional in Madrid.
 
 Now, to finish transcribing the materials at Penn, I estimate we need ~330 hours of student labor as it takes ~45 minutes to complete one image and there are 430 images remaining. To complete the first pass of the transcription of holdings in Spain, I estimate I need 690 hours, as 914 images remain. Once transcribed, there is much work to be done editing, modernizing, tagging metadata, and writing about the trials for public usage. I expect this project to take at least two years to completely transcribe and publish both archives.
-
+<!--
 To this end, I would like to hire three undergraduate researchers for the following periods:
 
 Winter: (up to) 20 hours over 6 weeks (12/1/25–1/19/26) Spring: 75 hours over 17 weeks (1/20/26–5/17/26) Summer: 240 hours over 8 weeks (5/18/26–7/2/26) Fall: 75 hours over 17 weeks (8/31/26–12/18/26)
+-->
 
 In each period, two Project Assistants would prioritize transcription efforts, and one would collaborate with me to develop and implement the digital platforms required. At present, I am exploring Zooniverse as an option for private collaborative transcriptions that will standardize work across different generations of student works, and Github as a back-up text repository for completed work. Project Assistant 1 will also work with me and LITS to design and implement digital components, receiving any additional training they need to support the project.
 
