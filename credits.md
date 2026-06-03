@@ -3,7 +3,7 @@ layout: page
 title: Project Team
 ---
 
-Kathryn Phipps - Project director
+[Kathryn Phipps] - Project director
 
 Alice McGrath - Technical coordinator
 
