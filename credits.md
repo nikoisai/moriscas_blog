@@ -1,9 +1,27 @@
 ---
 layout: page
-title: Credits
+title: Project Team
 ---
 
-### [Susanna Allés Torrent](http://susannalles.github.io/) | Hyper philologist
+Kathryn Phipps - Project director
+
+Alice McGrath - Technical coordinator
+
+Niko Caraballo - Digital Scholarship Graduate Assistant and Project Manager
+
+Digital Scholarship Project Assistants:
+
+Madeleine Buergel
+
+Nora Cleary
+
+Brynne Dixon-Kruijf
+
+Sarah Kurth
+
+J Lamas-Nemec
+
+<!--### [Susanna Allés Torrent](http://susannalles.github.io/) | Hyper philologist
 
 Susanna teaches Digital Humanities in the Department of Latin American and Iberian Cultures. She earned her Ph.D in Romance Studies at the University of Barcelona in 2012, and completed a M.A. in «Nouvelles technologies appliquées à l’histoire» at the École Nationale des Chartes (Paris). She has taught at the University of Barcelona and she has been a postdoctoral fellow at the Spanish National Research Council (CSIC). Her research explores several aspects of digital humanities, especially, scholarly digital editions, electronic text analysis, intertextuality and text reuse, and digital lexicography. She also works with the intersection of the Iberian Peninsula and Italy in the Middle Ages and the Renaissance, reconstructing cultural and literary networks between the two.
 
@@ -31,3 +49,4 @@ As many open source projects, Ed is the work of community. The project starts wi
 We are strongly indebted to the research work and conversations stemming out of our [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/)—or as we like to call it: #xpmethod; the wonderful international comradery of [GO::DH](http://www.globaloutlookdh.org/); and of course, the support of our [Columbia University Libraries](http://library.columbia.edu/) and its cozy [Studio@Butler](https://studio.cul.columbia.edu/).
 
 ...and to the writers that inspire us to scribble notes on the margins we protect with our work. Thank you.
+-->
