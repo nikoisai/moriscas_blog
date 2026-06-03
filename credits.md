@@ -11,15 +11,11 @@ Niko Caraballo - Digital Scholarship Graduate Assistant and Project Manager
 
 Digital Scholarship Project Assistants:
 
-Madeleine Buergel
-
-Nora Cleary
-
-Brynne Dixon-Kruijf
-
-Sarah Kurth
-
-J Lamas-Nemec
+- Madeleine Buergel
+- Nora Cleary
+- Brynne Dixon-Kruijf
+- Sarah Kurth
+- AJ Lamas-Nemec
 
 <!--### [Susanna Allés Torrent](http://susannalles.github.io/) | Hyper philologist
 
