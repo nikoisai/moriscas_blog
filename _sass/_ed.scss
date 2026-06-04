@@ -144,7 +144,11 @@ p {
 
 /* Lists */
 ul {
-  list-style: disc; /*changed from circle to disc type*/
+  list-style: circle;
+}
+
+ul.a {
+  list-style: disc;
 }
 
 ul, ol {
