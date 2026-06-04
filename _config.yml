@@ -30,7 +30,7 @@ collections:
 
 # Collections for Mayor Garcia pages  **Added by Niko
 collections:
-  mayor-garcia:
+  mayor_garcia:
     output: true
 
 # Markdown specs
