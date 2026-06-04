@@ -5,4 +5,4 @@ title: Trial of Mayor Garcia
 
 ## Pages/Páginas
 
-- [Page 1](/_texts/mayor-garcia.md/)
+- [Page 1](/ed/texts/mayor-garcia)
