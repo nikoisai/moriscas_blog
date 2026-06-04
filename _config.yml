@@ -28,6 +28,11 @@ collections:
   texts:
     output: true
 
+# Collections for Mayor Garcia pages  **Added by Niko
+collections:
+  mayor-garcia:
+    output: true
+
 # Markdown specs
 markdown: kramdown
 
