@@ -29,7 +29,6 @@ collections:
     output: true
 
 # Collections for Mayor Garcia pages  **Added by Niko
-collections:
   mayor_garcia:
     output: true
 
